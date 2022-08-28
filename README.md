@@ -24,3 +24,8 @@ Learning Purposes
 
 
 > Important: To create markdown in repository, just follow the **markdown syntax** from Google Collabolatory.
+
+Features
+---
+- [ ] Remove Duplicates
+- [ ] Remove downward trent
