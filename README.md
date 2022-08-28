@@ -25,7 +25,8 @@ Learning Purposes
 
 > Important: To create markdown in repository, just follow the **markdown syntax** from Google Collabolatory.
 
-Features
+Features for pandas on NTU project
 ---
-- [ ] Remove Duplicates
-- [ ] Remove downward trent
+- [x] Remove Duplicates
+- [x] Remove downward trend
+- [ ] Compare the values and check
