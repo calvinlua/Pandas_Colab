@@ -32,4 +32,9 @@ Features for pandas on NTU project
 - [ ] Compare the values and check
 
 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
 [References for markdown](https://www.markdownguide.org/extended-syntax/#fnref:1)
