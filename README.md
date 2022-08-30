@@ -30,3 +30,6 @@ Features for pandas on NTU project
 - [x] Remove Duplicates
 - [x] Remove downward trend
 - [ ] Compare the values and check
+
+
+[References for markdown](https://www.markdownguide.org/extended-syntax/#fnref:1)
